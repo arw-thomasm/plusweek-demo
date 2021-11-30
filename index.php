@@ -23,7 +23,7 @@
 	<!-- boxed bg -->
 	<link id="bodybg" href="bodybg/bg1.css" rel="stylesheet" type="text/css" />
 	<!-- template skin -->
-	<link id="t-colors" href="color/lime.css" rel="stylesheet">
+	<link id="t-colors" href="color/pink.css" rel="stylesheet">
 
 
 </head>
