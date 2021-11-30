@@ -193,30 +193,19 @@
 						<div class="wow fadeInDown" data-wow-delay="0.1s">
 							<div class="section-heading text-center">
 								<h2 class="h-bold">Doctors</h2>
-								<p>Ea melius ceteros oportere quo, pri habeo viderer facilisi ei</p>
+								<p>Our crazy doctors will cure you regardless of the disease you have</p>
 							</div>
 						</div>
-						<div class="divider-short"></div>
+						<div class="divider-short"></div> 
 					</div>
 				</div>
 			</div>
 
-			<div class="container">
+			<div class="container marginbot-20">
 				<div class="row">
 					<div class="col-lg-12">
 
-						<div id="filters-container" class="cbp-l-filters-alignLeft">
-							<div data-filter="*" class="cbp-filter-item-active cbp-filter-item">All (<div
-									class="cbp-filter-counter"></div>)</div>
-							<div data-filter=".cardiologist" class="cbp-filter-item">Cardiologist (<div
-									class="cbp-filter-counter"></div>)</div>
-							<div data-filter=".psychiatrist" class="cbp-filter-item">Psychiatrist (<div
-									class="cbp-filter-counter"></div>)</div>
-							<div data-filter=".neurologist" class="cbp-filter-item">Neurologist (<div
-									class="cbp-filter-counter"></div>)</div>
-						</div>
-
-						<div id="grid-container" class="cbp-l-grid-team">
+						<div id="grid-container" class="cbp-l-grid-team marginbot-50">
 							<ul>
 								<li class="cbp-item psychiatrist">
 									<a href="doctors/member1.html" class="cbp-caption cbp-singlePage">
@@ -285,6 +274,18 @@
 
 							</ul>
 						</div>
+
+						<div id="filters-container" class="cbp-l-filters-alignLeft">
+							<div data-filter="*" class="cbp-filter-item-active cbp-filter-item">All (<div
+									class="cbp-filter-counter"></div>)</div>
+							<div data-filter=".cardiologist" class="cbp-filter-item">Cardiologist (<div
+									class="cbp-filter-counter"></div>)</div>
+							<div data-filter=".psychiatrist" class="cbp-filter-item">Psychiatrist (<div
+									class="cbp-filter-counter"></div>)</div>
+							<div data-filter=".neurologist" class="cbp-filter-item">Neurologist (<div
+									class="cbp-filter-counter"></div>)</div>
+						</div>
+
 					</div>
 				</div>
 			</div>
