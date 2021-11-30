@@ -883,7 +883,7 @@
 						<div class="wow fadeInDown" data-wow-delay="0.1s">
 							<div class="widget">
 								<h5>Our location</h5>
-								<p>The Suithouse V303, Kuningan City, Jakarta Indonesia 12940</p>
+								<p>The Suithouse V303, Nashville 37011, Tennessee USA</p>
 
 							</div>
 						</div>
