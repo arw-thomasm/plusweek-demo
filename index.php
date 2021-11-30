@@ -40,7 +40,7 @@
 							<p class="bold text-left">Monday - Saturday, 8am to 10pm </p>
 						</div>
 						<div class="col-sm-4 col-md-4">
-							<p class="text-center"><small><?php echo gethostname(); ?></small></p>
+							<p class="text-center"><small><?php echo "Hostname: " . gethostname(); ?></small></p>
 						</div>
 						<div class="col-sm-4 col-md-4">
 							<p class="bold text-right">Call us now +62 008 65 001</p>
